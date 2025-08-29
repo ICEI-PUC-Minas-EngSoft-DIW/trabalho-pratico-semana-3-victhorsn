@@ -105,7 +105,7 @@ body {
     background-color: #ff1a1a;
 }
 
-/* Carrossel notícias */
+//* Carrossel notícias *//
 .noticias .carrossel {
     display: flex;
     overflow-x: auto;
