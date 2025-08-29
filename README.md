@@ -21,7 +21,8 @@ Não tive wireframe.
 
 ## Print da home-page criada
 
-![alt text](print1.png)
-![alt text](print2.png)
-![alt text](print3.png)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b2c59bc1-ded5-4551-b51b-09f0c2fd48c4" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4241d73c-3434-4ffd-81d0-0d3f14ea9336" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/995c45be-4214-44f2-80ee-fb796d34c2aa" />
 
