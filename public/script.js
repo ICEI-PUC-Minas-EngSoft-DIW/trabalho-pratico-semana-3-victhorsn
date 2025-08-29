@@ -25,3 +25,5 @@ document.querySelectorAll('.menu a').forEach(link => {
         document.querySelector(this.getAttribute('href')).scrollIntoView({behavior: 'smooth'});
     });
 });
+
+//SCRIPT.JS
