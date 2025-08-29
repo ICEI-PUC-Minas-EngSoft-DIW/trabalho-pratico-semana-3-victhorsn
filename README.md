@@ -8,17 +8,20 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Victhor Guilherme Santos Loiola
+- Matricula: 903255
+- Proposta de projeto escolhida: Notíciario do competitivo de um jogo (Counter-Strike 2)
+- Breve descrição sobre seu projeto: Notíciario do competitivo de um jogo, que mostra as notícias do mundo competitivo do CS2, como times sendo campeões, jogadores sendo alterados ou sendo comprados para uma organização, eventos que vão acontecer e etc.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+Não tive wireframe.
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](print1.png)
+![alt text](print2.png)
+![alt text](print3.png)
+
